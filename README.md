@@ -11,3 +11,9 @@ Materia la cual nos está enseñando GitHub y el uso de repositorios.
 Roberto Melo
 
 Materia en la cual estamos viendo los inicios de composición visual y su implementación funcional 
+
+## Sistemas Operativos
+
+Osiel Morales
+
+Materia donde vemos ciberseguridad y el uso y mantenimiento de sistemas operativos
