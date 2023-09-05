@@ -23,3 +23,9 @@ Materia donde vemos ciberseguridad y el uso y mantenimiento de sistemas operativ
 Sebastian Mejia
 
 Materia donde andamos diseñando una aplicación movil.
+
+## Diseño de Videojuegos
+
+Hector Guerrero
+
+Materia donde andamos haciendo un jueguito cada semana
