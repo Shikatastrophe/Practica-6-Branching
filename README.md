@@ -17,3 +17,9 @@ Materia en la cual estamos viendo los inicios de composición visual y su implem
 Osiel Morales
 
 Materia donde vemos ciberseguridad y el uso y mantenimiento de sistemas operativos
+
+## Proyecto de App
+
+Sebastian Mejia
+
+Materia donde andamos diseñando una aplicación movil.
