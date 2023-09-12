@@ -29,3 +29,6 @@ Materia donde andamos diseñando una aplicación movil.
 Hector Guerrero
 
 Materia donde andamos haciendo un jueguito cada semana
+
+
+## Esta es la versión 1.0.0 de este repositorio
